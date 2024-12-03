@@ -1,7 +1,6 @@
 // src/app/blog/page.tsx
 import Link from 'next/link';
 import Image from 'next/image';
-import Head from 'next/head';
 import Button from '@/components/Button';
 import BlogHeader from '@/components/BlogHeader';
 
